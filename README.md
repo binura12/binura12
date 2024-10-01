@@ -3,7 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=binura12&label=Profile%20views&color=0e75b6&style=flat" alt="binura12" /> </p>
 
-<p align="center"> - 📫 How to reach me **binura.bin02@gmail.com** </p>
+<h3 align="center">How to reach me:</h3>
+<p align="center">📫 Email: <a href="mailto:binura.bin02@gmail.com">binura.bin02@gmail.com</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
