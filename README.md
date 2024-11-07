@@ -12,5 +12,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binura12&show_icons=true&locale=en&layout=compact" alt="binura12" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binura12&show_icons=true&locale=en" alt="binura12" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binura12&" alt="binura12" /></p>
