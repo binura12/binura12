@@ -6,7 +6,7 @@
 
 <h1 align="center">Binura Namulitha</h1>
 
-<h4 align="center">Full Stack Developer | UI/UX Designer</h4>
+<h4 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=445&lines=Full Stack Developer | UI/UX Designer" alt="Typing SVG" /></a></ha>
 
 ###
 
